@@ -9,3 +9,5 @@ Now execute the following command -
 ```
 
 It is recommended that you use linux because it has all the dependeciencies present otherwise you might need to insert httpx and massdns in your system.
+
+Please Note this tool uses Massdns for finding the CNAME records as it is more reliable and fast.
